@@ -1,6 +1,5 @@
 import { useState } from "react";
 import data from "./data";
-// test
 
 export default function Accordian() {
   const [selected, setSelected] = useState(null);
